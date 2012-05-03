@@ -1,12 +1,4 @@
-# Bootstrap
-app/bootstrap*
+silex.phar
+.idea
+*.iml
 
-# Symfony directories
-vendor/*
-*/logs/*
-*/cache/*
-web/uploads/*
-web/bundles/*
-
-# Configuration files
-app/config/parameters.ini
